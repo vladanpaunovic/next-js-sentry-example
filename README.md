@@ -29,4 +29,4 @@ Frontend:
 
 - Send any request to [http://localhost:3000/api/hello](http://localhost:3000/api/hello)
 
-> If you are using [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) for VS Code, feel free to use [test-api.http](test-api.http) tot rigger the requests.
+> If you are using [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) for VS Code, feel free to use [test-api.http](test-api.http) to trigger the requests.
