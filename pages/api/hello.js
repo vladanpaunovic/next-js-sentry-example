@@ -2,7 +2,7 @@
 import { withSentry } from "@sentry/nextjs";
 
 const handler = async (req, res) => {
-  throw new Error("New error from Vladan");
+  throw new Error("Test error received");
   res.status(200).json({ name: "John Doe" });
 };
 
